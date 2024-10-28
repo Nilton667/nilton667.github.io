@@ -1,4 +1,4 @@
-## Getting Portfólio
+## Portfólio
 
 First, run the development server:
 
