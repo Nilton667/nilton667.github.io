@@ -17,8 +17,8 @@ export default function Header() {
             {/*Desktop menu*/}
             <div className="hidden xl:flex items-center gap-8">
                 <Nav/>
-                <Link href="/contacto">
-                    <Button variant={'default'}>Contacto</Button>
+                <Link target="_blank" href="https://wa.me/244935074974">
+                    <Button variant={'default'}>Whatsapp</Button>
                 </Link>
             </div>
 

@@ -7,7 +7,8 @@ export default (phase: string) => {
   const nextConfig: NextConfig = {
     output: 'export',
     distDir: 'docs',
-    assetPrefix: isDev ? undefined : 'https://nilton667.github.io', 
+    assetPrefix: isDev ? undefined : 'https://github.com/Nilton667/nilton667.github.io/tree/main/docs',
+    images: { unoptimized: true } 
   }; 
   
   return nextConfig;
