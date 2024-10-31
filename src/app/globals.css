@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer base {
+  html{
+    font-size: 10pt;
+  }
   body{
     @apply font-primary bg-primary text-white leading-loose;
   }
