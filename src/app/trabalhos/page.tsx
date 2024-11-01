@@ -69,7 +69,7 @@ const projects = [
     num: '04',
     category: 'Loja Virtual',
     tittle: 'Rubro',
-    description: '',
+    description: 'Todo o processo de compra e venda é realizado digitalmente',
     stack: [
       {name: 'Nest.JS'},
       {name: 'Rust'},
