@@ -14,7 +14,7 @@ export default function Photo() {
                 transition:{delay: 2.4, duration: 0.4, ease: 'easeInOut'}
             }}>
                 <div>
-                    <Image src={'./avatar.png'} quality={100} priority fill alt="Avatar" className="object-contain rounded-full"/>
+                    <Image src={'/avatar.png'} quality={100} priority fill alt="Avatar" className="object-contain rounded-full"/>
                 </div>
             </motion.div>
             {/* Border */}
